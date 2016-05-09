@@ -1,4 +1,3 @@
-# 15-418-Final-Project
 # Checkpoint
 
 ### Work Completed
